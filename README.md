@@ -54,7 +54,7 @@ For deployment, we have to move from the default server to a production server. 
 
 ## Authors
 
-* **Mohit Sahoo** - *Initial work* - [Mohit Sahoo](https://github.com/mohitsahoo)
+* **Mohit Sahoo** - *Initial work* - [(website)](https://mohitsahoo.com/)
 
 
 ## License
