@@ -18,14 +18,14 @@ Python3
 
 Follow these steps to get the server running:
 
-First, install the required libraries using pip.
-```
-pip install -r requirements.txt
-```
-
-Then, clone this project using git.
+First, clone this project using git.
 ```
 git clone https://github.com/mohitsahoo/api-pydev.git
+```
+
+Then, install the required libraries using pip.
+```
+pip install -r requirements.txt
 ```
 
 Then run it using:
