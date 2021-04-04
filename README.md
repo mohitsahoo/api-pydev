@@ -4,7 +4,7 @@ API implementation using Flask, currently hosted [here](http://18.222.189.94/boo
 
 ### Problem Statment
 We have one file with the name books.csv. The CSV file contains the general information about the
-books, like book name, author, year of publication, etc.
+books, like book name, author, year of publication, etc. Develop two API endpoints, where you can see the requirements below:
 
 1. API will return number of rows requested from the books.csv file.
 	- Input : rows=3
