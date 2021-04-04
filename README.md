@@ -2,6 +2,9 @@
 
 API implementation using Flask
 
+![Screenshot_2021-04-04_20:30:38:520](https://user-images.githubusercontent.com/10359228/113512988-f2672600-9584-11eb-9b80-f5af81812f7f.png)
+![Screenshot_2021-04-04_20:32:20:704](https://user-images.githubusercontent.com/10359228/113512992-f72bda00-9584-11eb-9323-d6399982e794.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
