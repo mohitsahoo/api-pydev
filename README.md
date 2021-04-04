@@ -1,6 +1,6 @@
 # api-pydev
 
-API implementation using Flask
+API implementation using Flask, currently hosted [here](http://18.222.189.94/books). Check out the examples.
 
 ![Screenshot_2021-04-04_20:30:38:520](https://user-images.githubusercontent.com/10359228/113512988-f2672600-9584-11eb-9b80-f5af81812f7f.png)
 ![Screenshot_2021-04-04_20:32:20:704](https://user-images.githubusercontent.com/10359228/113512992-f72bda00-9584-11eb-9323-d6399982e794.png)
@@ -27,9 +27,10 @@ First, clone this project using git.
 git clone https://github.com/mohitsahoo/api-pydev.git
 ```
 
-Then, install the required libraries using pip.
+Then, cd into the directory and install the required libraries using pip.
 ```
-pip install -r requirements.txt
+cd api-pydev/
+python3 -m pip install -r requirements.txt
 ```
 
 Then run it using:
@@ -50,6 +51,11 @@ python tests.py
 ## Deployment
 
 For deployment, we have to move from the default server to a production server. More info on deployment instructions [here](https://flask.palletsprojects.com/en/1.1.x/tutorial/deploy/).
+
+For development purposes, you can deploy it using the following command:
+```
+sudo flask run --host=0.0.0.0 --port=80
+```
 
 ## Built With
 
