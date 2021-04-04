@@ -4,7 +4,7 @@ from flask_restful import reqparse, fields
 
 # request parser for query parameters
 get_parser = reqparse.RequestParser()
-get_parser.add_argument("rows", type=int, required=True, help="Please enter a valid number.")
+get_parser.add_argument("rows", type=int, required=True, help="Please pass a valid `rows` query parameter.")
 
 
 class Page(fields.Raw):
